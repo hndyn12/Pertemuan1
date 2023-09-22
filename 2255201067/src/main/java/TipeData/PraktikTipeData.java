@@ -18,7 +18,6 @@ public class PraktikTipeData {
         int semester = 3;
         //Tipe data char
         char kelas= 'A';
-        //Tipe data float
         System.out.println("Nama :"+nama);
         System.out.println("Prodi :"+prodi);
         System.out.println("Angkatan :"+angkatan);
